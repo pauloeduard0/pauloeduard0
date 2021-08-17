@@ -4,7 +4,9 @@
   <p> 👨‍💻 <b>Currently work:</b> R&D - Inatel </p>
   <p> 💱 <b>Learning:<b/> Trading and money transactions </p>
   <p> ⚙ <b>Main Tools:</b> Pycharm and VS Code </p>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="java" height="30" width="40" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </p>
   
 </div> 
