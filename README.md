@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**pauloeduard0/pauloeduard0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p> <img src="https://user-images.githubusercontent.com/68037168/129746731-4cd8b53c-c2e7-4507-bc66-896c2ac8947a.gif" width="310" height="190" align="right">
+  <h3> Hi there, I'm Paulo Eduardo!! 👋 </h3>
+  <p> 👨‍💻 I'm currently working with back-end </p>
+  <p> 🐲 I’m currently learning Python </p>
+  <p> 💱 Studying trading and money transactions </p>
+  <p> 🤖 Creating trading robots </p>
+</p>
+  
+</div> 
+ 
